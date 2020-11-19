@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+jhZa3SJScaMXqdLNrK0yljK96csmHguOTKvi9WBY7oxXsd419/EPznwqd2J1aOICeEj+QEWG1f9nfjh2Vs5mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jhonbarreiro\\source\\repos\\amartindemo\\amartindemo.proxy\\amartindemo.proxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jhonbarreiro\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jhonbarreiro\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jhonbarreiro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

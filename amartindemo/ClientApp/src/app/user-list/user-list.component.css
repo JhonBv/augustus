@@ -1,0 +1,11 @@
+.userlistContainer {
+width:100%;
+border:1px solid #ff0000;
+}
+.userlistdiv {
+width:20%;
+float:left;
+}
+ul {
+    list-style-type:none;
+}

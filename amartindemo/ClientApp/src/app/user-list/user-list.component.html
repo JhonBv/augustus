@@ -1,0 +1,44 @@
+
+<h1 id="tableLabel">User List</h1>
+
+<p *ngIf="!users"><em>Loading...</em></p>
+<p>Select a user to view their details.</p>
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="users">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Username</th>
+      <th>Post count</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let user of users">
+      <td (click)="onSelect(user)">{{ user.Name }}</td>
+      <td (click)="onSelect(user)">{{ user.UserName }}</td>
+      <td (click)="onSelect(user)">{{ user.PostCount }}</td>
+    </tr>
+  </tbody>
+</table>
+<!--<p>Belo a UL</p>
+<div class="userlistContainer">
+  <div class="userlistdiv">
+    <ul>
+      <li *ngFor="let user of users" (click)="onSelect(user)"><span>{{user.Name}}</span></li>
+    </ul>
+  </div>
+  <div class="userlistDiv">
+    <ul>
+      <li *ngFor="let user of users" (click)="onSelect(user)"><span>{{user.UserName}}</span></li>
+    </ul>
+  </div>
+  <div class="userlistDiv">
+    <ul>
+      <li *ngFor="let user of users" (click)="onSelect(user)"><span style="width:10%">{{user.PostCount}}</span></li>
+    </ul>
+  </div>
+</div>-->
+
+<div *ngIf="selectedUser">
+  <h3>{{selectedUser.id}}</h3>
+</div>
+

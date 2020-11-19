@@ -1,0 +1,12 @@
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\bin\Debug\netstandard2.0\amartindemo.models.dll
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\obj\Debug\netstandard2.0\amartindemo.proxy.csprojAssemblyReference.cache
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\obj\Debug\netstandard2.0\amartindemo.proxy.AssemblyInfoInputs.cache
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\obj\Debug\netstandard2.0\amartindemo.proxy.AssemblyInfo.cs
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\bin\Debug\netstandard2.0\amartindemo.proxy.deps.json
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\bin\Debug\netstandard2.0\amartindemo.proxy.dll
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\bin\Debug\netstandard2.0\amartindemo.proxy.pdb
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\bin\Debug\netstandard2.0\amartindemo.models.pdb
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\obj\Debug\netstandard2.0\amartindemo.proxy.csproj.CoreCompileInputs.cache
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\obj\Debug\netstandard2.0\amartindemo.proxy.csproj.CopyComplete
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\obj\Debug\netstandard2.0\amartindemo.proxy.dll
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.proxy\obj\Debug\netstandard2.0\amartindemo.proxy.pdb

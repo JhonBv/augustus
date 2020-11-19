@@ -1,0 +1,9 @@
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\bin\Debug\netstandard2.0\amartindemo.models.deps.json
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\bin\Debug\netstandard2.0\amartindemo.models.dll
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\bin\Debug\netstandard2.0\amartindemo.models.pdb
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\obj\Debug\netstandard2.0\amartindemo.models.csprojAssemblyReference.cache
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\obj\Debug\netstandard2.0\amartindemo.models.AssemblyInfoInputs.cache
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\obj\Debug\netstandard2.0\amartindemo.models.AssemblyInfo.cs
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\obj\Debug\netstandard2.0\amartindemo.models.csproj.CoreCompileInputs.cache
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\obj\Debug\netstandard2.0\amartindemo.models.dll
+C:\Users\jhonbarreiro\source\repos\amartindemo\amartindemo.models\obj\Debug\netstandard2.0\amartindemo.models.pdb
